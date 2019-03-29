@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MTrack</string>
+    <string name="title_activity_tab_fragment">TabFragment</string>
+</resources>
